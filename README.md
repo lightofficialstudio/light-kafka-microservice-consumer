@@ -1,4 +1,4 @@
-# ⚡️ Kafka Microservice Producer (NestJS + TypeScript)
+# ⚡️ Kafka Microservice Consumer (NestJS + TypeScript)
 
 [![NestJS](https://img.shields.io/badge/NestJS-v10-red?logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Kafka](https://img.shields.io/badge/Apache%20Kafka-Message%20Queue-black?logo=apachekafka)](https://kafka.apache.org/)
